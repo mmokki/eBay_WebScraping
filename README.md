@@ -1,5 +1,6 @@
 # eBay WebScraping and Data Streaming
 This is a personal project.
+
 This project scraped the product information of "playstation 4 slim" in eBay and saved the data into MySql database.
 
 
